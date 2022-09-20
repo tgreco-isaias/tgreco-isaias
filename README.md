@@ -24,8 +24,12 @@ Olá, meu nome é Thalyta Greco  🤓💻
   <img align="center" alt="TG-BT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg">
   <img align="center" alt="TG-BT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="TG-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://im3.ezgif.com/tmp/ezgif-3-5c944bb1ae.gif?width=676&height=676">
+
+
+ 
 </div>
+  
+  
    
   ##
    
