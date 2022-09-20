@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**tgreco-isaias/tgreco-isaias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá, meu nome é Thalyta Greco  🤓💻
 
-Here are some ideas to get you started:
+🔭 Cursando Análise e Desenvolvimento de Sistemas  
+👩‍🎓 Formada em Administração de Empresa  
+📫 Meu e-mail para contato: tgreco_isaias@hotmail.com  
+💻Meu perfil no linkedin:https://www.linkedin.com/in/thalyta-greco/  
+👨🏿‍💻 Conhecimento em HTML, CSS, JS, Bootstrap, SQL, MYSQL, XAMPP, C#, Asp.Net  
+📌 Estudando Angular, Node.js, React, Xamarim.  
+⚙️ Ferramentas que tenho experiência: Visual Code / Visual Studio  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
