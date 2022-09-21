@@ -5,16 +5,16 @@ Olá, meu nome é Thalyta Greco  🤓💻
 👩‍🎓 Formada em Administração de Empresa  
 📫 Meu e-mail para contato: tgreco_isaias@hotmail.com  
 💻Meu perfil no linkedin:https://www.linkedin.com/in/thalyta-greco/  
-👨🏿‍💻 Conhecimento em HTML, CSS, JS, Bootstrap, SQL, MYSQL, XAMPP, C#, Asp.Net  
-📌 Estudando Angular, Node.js, React, Xamarim.  
+👨🏿‍💻 Conhecimento em HTML, CSS, JS, Bootstrap, SAP, SQL, MYSQL, XAMPP, C#, Asp.Net  
+📌 Estudando Angular, Node.js, React, Xamarim, Azure   
 ⚙️ Ferramentas que tenho experiência: Visual Code / Visual Studio 
 
 
 ## Oiii eu sou a Thalyta Greco, pequena gafanhota em evolução, aperfeiçoando desenvolvimento!
 <div align="left">
   <a href="https://github.com/tgreco-isaias">
-  <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api?username=tgreco-isaias&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tgreco-isaias&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=tgreco-isaias&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tgreco-isaias&layout=compact&langs_count=7&theme=dracula"/>
 </div>
  <div style="display: inline_block"><br>
   <img align="center" alt="TG-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
