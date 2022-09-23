@@ -43,6 +43,6 @@ Olá, meu nome é Thalyta Greco  🤓💻
  
  ## Snake eating contribution graph
  
- ![snake gif](https://github.com/tgreco-isaias/tgreco-isaias/blob/output/github-contribution-grid-snake.gif)
+ ![Snake animation](https://github.com/tgreco-isaias/tgreco-isaias/blob/output/github-contribution-grid-snake.svg)
  
 </div>
