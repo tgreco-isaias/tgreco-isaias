@@ -1,14 +1,30 @@
+Olá, meu nome é Thalyta Greco 🤓💻
 
-Olá, meu nome é Thalyta Greco  🤓💻
+Sou uma desenvolvedora de sistemas altamente capacitada com projeto de carreira na área de tecnologia, venho ganhando experiência em várias linguagens de programação e tecnologias de ponta. Tenho um histórico de criação de soluções inovadoras e eficientes que atendem às necessidades dos clientes e excedem suas expectativas.
 
-🔭 Cursando Análise e Desenvolvimento de Sistemas  
-👩‍🎓 Formada em Administração de Empresa  
-📫 Meu e-mail para contato: tgreco_isaias@hotmail.com  
-💻Meu perfil no linkedin:https://www.linkedin.com/in/thalyta-greco/  
-👨🏿‍💻 Conhecimento em HTML, CSS, JS, Bootstrap, SAP, SQL, MYSQL, XAMPP, C#, Asp.Net  
-📌 Estudando Angular, Node.js, React, Xamarim, Azure   
-⚙️ Ferramentas que tenho experiência: Visual Code / Visual Studio 
+Tenho grandes facilidades em aprender e busco constantemente aprimorar minhas habilidades, mantendo-me atualizado com as tecnologias mais recentes e adotando práticas recomendadas de desenvolvimento.
 
+Além disso, sou apaixonado por tecnologia e sempre estou me atualizando em relação às tendências do setor e às últimas novidades. Busco sempre aprender coisas novas e aplicar esse conhecimento em meus projetos.
+
+Minha experiência inclui projetos de desenvolvimento de sistemas , desde aplicativos móveis até softwares corporativos. Tenho uma compreensão profunda do ciclo de vida de desenvolvimento de software e da arquitetura de sistemas, e posso trabalhar de forma colaborativa com equipes multidisciplinares.
+
+Possuo habilidades em diversas linguagens de programação, como JavaScript, Python, C#, e outras tecnologias modernas, como React e Angular. Também estou bem versado em tecnologias de banco de dados, como MySQL, MongoDB, SQL e outros.
+
+Tenho facilidade em se organizar para entrega de resultados de alta qualidade dentro dos prazos estipulados, sou bastante comunicativa. 
+
+Estou procurando uma oportunidade desafiadora para aplicar minhas habilidades e experiência em um ambiente de equipe altamente colaborativo.
+
+Se você estiver procurando por um desenvolvedor de sistemas confiável, experiente e altamente qualificado, estou à disposição para ajudar.
+
+
+🔭 Cursando Análise e Desenvolvimento de Sistemas
+👩‍🎓 Formada em Administração de Empresa
+📫 Meu e-mail para contato: tgreco_isaias@hotmail.com
+💻Meu perfil no GitHub: https://github.com/tgreco-isaias
+📃Portifólio: https://tgreco-isaias.github.io/Portifolio
+👨🏿‍💻 Conhecimento em HTML, CSS, JS, Typescript,  UI e UX Design, Bootstrap, SAP, SQL, MYSQL, XAMPP, C#, Asp.Net
+📌 Estudando Angular, Node.js, React, Xamarim, Azure
+⚙️ Ferramentas que tenho experiência: Visual Code / Visual Studio
 
 ## Oiii eu sou a Thalyta Greco, pequena gafanhota em evolução, aperfeiçoando desenvolvimento!
 <div align="left">
