@@ -26,6 +26,8 @@ Se você estiver procurando por um desenvolvedor de sistemas confiável, experie
 📌 Estudando Angular, Node.js, React, Xamarim, Azure
 ⚙️ Ferramentas que tenho experiência: Visual Code / Visual Studio
 
+
+
 ## Oiii eu sou a Thalyta Greco, pequena gafanhota em evolução, aperfeiçoando desenvolvimento!
 <div align="left">
   <a href="https://github.com/tgreco-isaias">
