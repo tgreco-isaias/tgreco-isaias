@@ -13,7 +13,7 @@ Olá, meu nome é Thalyta Greco 🤓💻
 
 
 
-## Oiii eu sou a Thalyta Greco, pequena gafanhota em evolução, aperfeiçoando desenvolvimento!
+## Oiii eu sou a Thalyta Greco, aperfeiçoando sempre o desenvolvimento na área de TI e IA!
 <div align="left">
   <a href="https://github.com/tgreco-isaias">
   <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=tgreco-isaias&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
